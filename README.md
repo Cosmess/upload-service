@@ -10,6 +10,7 @@ Adicione as seguintes variáveis de ambiente:
 
 # Server
 NODE_ENV=
+
 LOG_LEVEL=
 PORT=
 HOST=
