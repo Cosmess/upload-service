@@ -12,20 +12,29 @@ Adicione as seguintes variáveis de ambiente:
 NODE_ENV=
 
 LOG_LEVEL=
+
 PORT=
+
 HOST=
+
 SSL=
  
 # JWT
 JWT_SECRET=
+
 JWT_ISSUER=
+
 JWT_EXPIRE=
  
 # Database
 SEQ_SQLDB_DATABASE=
+
 SEQ_SQLDB_HOST=
+
 SEQ_SQLDB_PASSWORD=
+
 SEQ_SQLDB_PORT=
+
 SEQ_SQLDB_USER=
  
 
